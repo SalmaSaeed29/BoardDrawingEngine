@@ -1,2 +1,2 @@
 # BoardDrawingEngine
-including 4 games: Tic Tac Toe &amp; Connect 4 &amp; Chess and Checkers
+including 2 games: Tic Tac Toe and Checkers
